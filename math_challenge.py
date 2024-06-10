@@ -1,4 +1,5 @@
 import random
+import time
 
 OPERATORS = ["+", "-", "*"]
 MIN_OPERAND = 3
